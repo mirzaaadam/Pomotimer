@@ -1,4 +1,4 @@
-# Pomotimer ( Aproject by Aadam Mirza)
+# Pomotimer (A Project by Aadam Mirza)
 A simple C++ based timer for use with the 'Pomodoro' Studying method; I searched for an intuitive way of setting customizable times for work and rest, but couldn't find one I liked, and decided to take it upon myself to make one. For any students using this to study, hope it helps!
 
 Need to do:
